@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "react-hook-form": "^7.34.2",
+    "react-router-dom": "^6.3.0",
+    "router": "^1.3.7"
+  },
+  "name": "my-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
